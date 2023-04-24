@@ -646,15 +646,16 @@ button:focus {
     font-size: 22px;
 }
 
-.more-content {
-    margin-top: 2em;
-}
 
 /*======================
-        10.BLOG
+10.BLOG
 ========================*/
 .read-more {
     margin-top: 75px;
+}
+
+.more-content {
+    margin-top: 2em;
 }
 
 /*======================
