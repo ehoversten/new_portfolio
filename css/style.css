@@ -646,6 +646,10 @@ button:focus {
     font-size: 22px;
 }
 
+.more-content {
+    margin-top: 2em;
+}
+
 
 /*======================
         10.FOOTER
