@@ -650,9 +650,15 @@ button:focus {
     margin-top: 2em;
 }
 
+/*======================
+        10.BLOG
+========================*/
+.read-more {
+    margin-top: 75px;
+}
 
 /*======================
-        10.FOOTER
+        11.FOOTER
 ========================*/
 
 .footer {
@@ -687,7 +693,7 @@ button:focus {
 
 
 /*===========================
-        11.RESPONSIVE
+        12.RESPONSIVE
 =============================*/
 
 @media (min-width: 200px) and (max-width: 768px) {
